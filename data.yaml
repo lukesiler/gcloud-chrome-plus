@@ -1,0 +1,4 @@
+data:
+  image-name: lukesiler/gcloud-chrome-plus
+  # 0.1.0 - first release with  node:12.13-stretch-slim, golang 1.12.9 plus yq, jq, ginkgo, gcloud and chrome
+  semver: 0.1.0
